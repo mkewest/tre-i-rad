@@ -1,0 +1,6 @@
+   {
+     "PyodideLockAddon": {
+       "enabled": true,
+       "specs": ["ipywidgets"]
+     }
+   }

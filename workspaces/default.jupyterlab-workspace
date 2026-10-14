@@ -1,0 +1,28 @@
+{
+  "data": {
+    "layout-restorer:data": {
+      "main": {
+        "dock": {
+          "type": "tab-area",
+          "currentIndex": 0,
+          "widgets": ["notebook:LABB_ Tre i rad.ipynb"]
+        },
+        "current": "notebook:LABB_ Tre i rad.ipynb"
+      },
+      "left": {
+        "collapsed": true,
+        "visible": true,
+        "widgets": []
+      }
+    },
+    "notebook:LABB_ Tre i rad.ipynb": {
+      "data": {
+        "path": "LABB_ Tre i rad.ipynb",
+        "factory": "Notebook"
+      }
+    }
+  },
+  "metadata": {
+    "id": "default"
+  }
+}
